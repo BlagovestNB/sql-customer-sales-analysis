@@ -45,7 +45,7 @@ The data comes from [Int_SQL_Data_Analytics_Course](https://github.com/lukebarou
 
 **Visualization**
 
-![!](https://github.com/BlagovestNB/sql-customer-sales-analysis/blob/main/Images/Total_revenue_per_customer.png)
+![!]([https://github.com/BlagovestNB/sql-customer-sales-analysis/blob/main/Images/Total_revenue_per_customer.png](https://github.com/BlagovestNB/sql-customer-sales-analysis/blob/main/Images/Customer_Segmentation.png))
 
 ## Key Findings:
 - Revenue per customer shows an alarming decreasing trend over time
