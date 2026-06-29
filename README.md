@@ -62,7 +62,7 @@ The data comes from [Int_SQL_Data_Analytics_Course](https://github.com/lukebarou
 - Analyzed last purchase patterns
 - Calculate customer-specific metrics
 
-**Query:** [3_Retention_Analysis](/SQL%20Project/3_Retention_Analysis.sql)
+**Query:** [3_Retention_Analysis](3_Retention_Analysis.sql)
 
 **Visualization**
 
