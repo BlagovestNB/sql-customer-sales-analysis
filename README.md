@@ -41,7 +41,7 @@ The data comes from [Int_SQL_Data_Analytics_Course](https://github.com/lukebarou
 - Cohorts were grouped by year of first purchase
 - Analyzed customer retention at a cohort level
 
-**Query:** [2_cohort_analysis.sql](/SQL%20Project/2_Cohord_Analysis.sql)
+**Query:** [2_cohort_analysis.sql]2_Cohord_Analysis.sql)
 
 **Visualization**
 
