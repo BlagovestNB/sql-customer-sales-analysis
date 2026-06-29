@@ -19,7 +19,7 @@ The data comes from [Int_SQL_Data_Analytics_Course](https://github.com/lukebarou
 - Assigned customers to High, Mid and Low-value segments
 - Calculate key metrics: total revenue
 
-**Query:** [1_customer_segmentation.sql](/SQL%20Project/1_Customer_Segmentation.sql)
+**Query:** [1_customer_segmentation.sql]([/SQL%20Project/1_Customer_Segmentation.sql](https://github.com/BlagovestNB/sql-customer-sales-analysis/blob/main/1_Customer_Segmentation.sql))
 
 **Visualization**
 
