@@ -23,7 +23,8 @@ The data comes from [Int_SQL_Data_Analytics_Course](https://github.com/lukebarou
 
 **Visualization**
 
-![!](https://github.com/BlagovestNB/sql-customer-sales-analysis/blob/main/Images/Total_revenue_per_customer.png)
+![!](https://github.com/BlagovestNB/sql-customer-sales-analysis/blob/main/Images/Customer_Segmentation.png)
+
 
 **Key Findings:**
 - High-value segments (25% of customers) drives 66% of revenue ($135.4M)
@@ -45,7 +46,7 @@ The data comes from [Int_SQL_Data_Analytics_Course](https://github.com/lukebarou
 
 **Visualization**
 
-![!](https://github.com/BlagovestNB/sql-customer-sales-analysis/blob/main/Images/Customer_Segmentation.png)
+![!](https://github.com/BlagovestNB/sql-customer-sales-analysis/blob/main/Images/Total_revenue_per_customer.png)
 
 ## Key Findings:
 - Revenue per customer shows an alarming decreasing trend over time
