@@ -30,7 +30,7 @@ The data comes from [Int_SQL_Data_Analytics_Course](https://github.com/lukebarou
 - Mid-value segment (50% of customers) generate 32% of revenue ($66.6M)
 - Low-revenue segment (25% of customers) account for 2% of revenue ($4.3M) 
 
-**Business Insights:**
+## Business Insight
 
 - High-Value (66% revenue): Offer premium membership program to 12,372 VIP customers, as losing one customer significantly impacts revenue
 - Mid-Value (32% revenue): Create upgrade paths through personalized promotion potential $66.6M to $135.4M revenue opportunity
