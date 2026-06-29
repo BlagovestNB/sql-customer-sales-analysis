@@ -30,7 +30,7 @@ The data comes from [Int_SQL_Data_Analytics_Course](https://github.com/lukebarou
 - Mid-value segment (50% of customers) generate 32% of revenue ($66.6M)
 - Low-revenue segment (25% of customers) account for 2% of revenue ($4.3M) 
 
-## Business Insight
+** Business Insight **
 
 - High-Value (66% revenue): Offer premium membership program to 12,372 VIP customers, as losing one customer significantly impacts revenue
 - Mid-Value (32% revenue): Create upgrade paths through personalized promotion potential $66.6M to $135.4M revenue opportunity
@@ -52,7 +52,7 @@ The data comes from [Int_SQL_Data_Analytics_Course](https://github.com/lukebarou
 - 2022-2024 cohorts are consistently performing worse than earlier cohorts
 - NOTE: Although net revenue is increasing, this is likely due to a larger customer base, which is not reflective of customer value
 
-## Business Insight
+** Business Insight **
 * Value extracted from customers is decreasing over time and needs further investigation.
 * In 2023 we saw drop in number of customers acquired, which is concerning.
 * With both lowering LTV and decreasing customer acquisition, the company is facing a potential revenue decline.
@@ -73,7 +73,7 @@ The data comes from [Int_SQL_Data_Analytics_Course](https://github.com/lukebarou
 - Retention rates are considered low (8-10%) across all cohorts, suggesting retention issues are systemic rather than specific to certain years.
 - Newer cohorts (2022-2023) show similar churn trajectories, signaling that without intervention, future cohorts will follow the same pattern.
 
-## Business Insight
+** Business Insight **
 * Strengthen early engagement strategies to target the first 1-2 years with onboarding incentives, loyalty rewards and personalized offers to improve long-term retention.
 * Re-engage high-value churned customers by focusing on targeted win-back campaigns rather than broad retention effort, as reactivating valuable users may yield higher ROI (Return on Investment).
 * Predict and preempt churn risk using customer-specific behavioral indicators, allowing teams to proactively engage customers with a high likelihood of attrition.
